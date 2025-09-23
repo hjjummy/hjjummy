@@ -59,8 +59,7 @@
 <img src="https://img.shields.io/badge/premiere-9999FF?style=for-the-badge&logo=AdobePremierePro&logoColor=white">
 </div>
 
-// 사용 옵션
-&tag : 해당 옵션을 넣으면 해당태그의 최신글을 가져온다.
+
 &color : dark
 
 <h3 align="left">Languages and Tools:</h3>
