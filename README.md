@@ -45,5 +45,3 @@
 </p>
 
 ---
-
-<h4 align="center">🚀 Building human-centered and scalable AI systems</h4>
